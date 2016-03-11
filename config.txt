@@ -1,0 +1,31 @@
+//buzztouch plugin info
+uniquePluginId: JC_ActionSheet
+displayAs: Action Sheet Menu
+category: Menu
+loadClassOrActionName: JC_ActionSheet
+hasChildItems: No
+supportedDevices: ios
+
+//author info
+authorName: Jake Chasan
+authorEmail: jappdesign@icloud.com
+authorBuzztouchURL: https://www.buzztouch.com/Jake Chasan
+authorWebsiteURL: http://www.jakechasan.com
+authorTwitterURL: http://twitter.com/jakechasan
+authorFacebookURL: https://www.facebook.com/jakechasan
+authorLinkedInURL: 
+authorYouTubeURL: 
+
+//version info
+versionNumber: 1.1
+versionString: v1.1
+updateURL: https://www.buzztouch.com/plugins/update.php?pid=F7F2D548D5770DFD02DAE45
+downloadURL: https://www.buzztouch.com/plugins/download.php?pid=F7F2D548D5770DFD02DAE45
+
+//default json data
+defaultJSONData:
+{"itemNickname": "[itemNickname]", "itemType": "JC_ActionSheet"}
+
+//description for control panel. Up to 250 characters. No HTML.
+shortDescription:
+This Plugin uses the native Action Sheet functionality in iOS to create a slide-up menu. You can configure the Title, Button Labels, Destructive Button, and Load Screen.

@@ -1,0 +1,10 @@
+{"propertySections":[
+	{"fileType":"custom", "fileName":"jc_actionSheetNavBar.html"},
+	{"fileType":"custom", "fileName":"jc_actionSheetTitle.html"},
+	{"fileType":"custom", "fileName":"jc_actionSheetCancelButton.html"},
+	{"fileType":"custom", "fileName":"jc_actionSheetButtons.html"},
+	{"fileType":"bt_section", "fileName":"btSection_login.html"},
+	{"fileType":"bt_section", "fileName":"btSection_search.html"},
+	{"fileType":"bt_section", "fileName":"btSection_screenJson.html"}	
+	]
+}
