@@ -43,7 +43,7 @@ This plugin is not compatible with Android.
 <img src="screenshots/screen-2.png" width="19%"/>
 
 ## Installation
-If a previous version of this plugin is installed on your server that was downloaded from the Buzztouch Plugin Market, we reccomend that you delete this plugin's folder under /filed/plugins/ and then upload the new package and refresh your plugin list.
+Download the [latest release of the plugin here](https://github.com/jakechasan/BT-Plugin-Action-Sheet-Menu/releases). Go do Admin->Manage Plugins->Upload Plugin Package. Check "Update Existing Plugin" if you already have this plugin installed and upload the zip file that you have downloaded from this repository. Then refresh your server's plugin list.
 
 ## Questions and Answers
 Can I use this plugin on my self-hosted Buzztouch account?
