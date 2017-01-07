@@ -9,6 +9,8 @@ v1.0-Initial Release of Plugin
 
 v1.1-Fixed problem loading screens on BT3.0 Core
 
+v1.2-Compatibility with BT4.0 and iOS 10
+
 --Fixed typos in the control panel
 
 ### iOS Project
